@@ -6,7 +6,7 @@ Config plugin to auto-configure `react-native-ble-manager` when the native code 
 
 ## Expo installation
 
-> Version for Expo 50 (Untested)
+> Version for Expo 49
 
 > This package cannot be used in the "Expo Go" app because [it requires custom native code](https://docs.expo.io/workflow/customizing/).
 > First install the package with yarn, npm, or [`expo install`](https://docs.expo.io/workflow/expo-cli/#expo-install).
